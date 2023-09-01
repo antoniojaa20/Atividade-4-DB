@@ -1,0 +1,20 @@
+ [
+    {
+        "Nome do Hóspede": "Hóspede 1",
+        "Preferência de Alimentação": "Vegetariana",
+        "Solicitações Especiais": "Berço",
+        "Atividades de Lazer": ["Piscina", "Spa"]
+    },
+    {
+        "Nome do Hóspede": "Hóspede 2",
+        "Preferência de Alimentação": "Carnívora",
+        "Solicitações Especiais": "",
+        "Atividades de Lazer": ["Academia", "Passeios"]
+    },
+    {
+        "Nome do Hóspede": "Hóspede 3",
+        "Preferência de Alimentação": "Vegana",
+        "Solicitações Especiais": "Travesseiros Extras",
+        "Atividades de Lazer": ["Piscina"]
+    }
+]
